@@ -9,14 +9,6 @@
 
 <?php "THis is test6 from other person" ?>
 
-<?php "THis is test7" ?>
 
-<?php "THis is test8" ?>
 
-<<<<<<< .merge_file_a23692
-<?php "THis is Jill's change" ?>
-=======
-<?php "THis is Joe's change" ?>
->>>>>>> .merge_file_a20484
 
-<?php "THis is Jill's second change" ?>
